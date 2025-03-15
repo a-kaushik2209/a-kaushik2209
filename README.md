@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @a-kaushik2209
 - 👀 I’m interested in Web Dev and in general. algorithms. 
-- 🌱 I’m currently learning Frontend.
+- 🌱 I have good knowledge in HTML, CSS , JS and Node.js.
 - 💞️ I’m looking to collaborate on any unique project.
 - 📫 How to reach me: a.kaushik0908@gmail.com 
 - 😄 Pronouns: He/Him
